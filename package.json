@@ -10,8 +10,12 @@
   },
   "dependencies": {
     "@rehooks/document-title": "^1.0.2",
+    "bootstrap": "^5.2.0",
+    "firebase": "8.3.2",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
     "react-router-dom": "^6.3.0"
   },
   "devDependencies": {
