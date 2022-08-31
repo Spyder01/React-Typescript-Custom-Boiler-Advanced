@@ -9,7 +9,6 @@ const Layout: FC<LayoutProps> = ({ children, title }) => {
     useDocumentTitle (title ? title : 'React App');
     return (
         <>
-            <AppBar />
             <main>
                 {children}
             </main>
